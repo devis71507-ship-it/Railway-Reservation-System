@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225100008
+# Name:DEVI S
+# Date:20/11/2026
 
 
 # AIM:
@@ -61,11 +61,13 @@ Create detailed charts that…
 
 
 
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
 
 
 
@@ -80,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1282" height="897" alt="image" src="https://github.com/user-attachments/assets/a4d9de4e-3fff-43e3-a8d3-c23f2d6cfb23" />
 
 
 
@@ -119,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="975" height="828" alt="image" src="https://github.com/user-attachments/assets/e8b8e1ab-b925-434d-a398-148f08630079" />
 
 
 
