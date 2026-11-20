@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="891" height="888" alt="image" src="https://github.com/user-attachments/assets/5e1f061c-d776-4b72-89cd-c2e00f1bd2ac" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1218" height="900" alt="image" src="https://github.com/user-attachments/assets/e13a53e2-8929-4ad0-9bfb-ee2c53ecda48" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -70,6 +72,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/80fe2325-6a5c-4a97-9e19-c4d80d0eb4a4" />
 
 
 # PACKAGE DIAGRAM:
@@ -101,6 +104,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e843062c-fbc6-4b62-b482-d8c229362959" />
 
 
 
